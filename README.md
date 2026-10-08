@@ -1,4 +1,4 @@
-# Databricks Sales Data Pipeline
+# Databricks Sales Data Engineering Pipeline
 
 ## Project Overview
 
